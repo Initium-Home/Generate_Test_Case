@@ -1,4 +1,4 @@
-package persnalPrectice;
+package Generate_Test_Case;
 
 import java.io.BufferedWriter;
 import java.io.File;
